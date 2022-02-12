@@ -1,1 +1,2 @@
 this is testing file for SINGAPORE region ec2-instance
+to check gitignore testing
